@@ -1,238 +1,238 @@
-"id,state,county,rate"
-"01101,Alabama,Montgomery County,28"
-"06085,California,Santa Clara County,16"
-"25025,Massachusetts,Suffolk County,15"
-"11001,District of Columbia,District of Columbia,15"
-"06001,California,Alameda County,14"
-"09007,Connecticut,Middlesex County,14"
-"20003,Kansas,Anderson County,13"
-"06037,California,Los Angeles County,11"
-"01063,Alabama,Greene County,10"
-"17043,Illinois,DuPage County,10"
-"35001,New Mexico,Bernalillo County,9"
-"35043,New Mexico,Sandoval County,9"
-"13145,Georgia,Harris County,7"
-"48157,Texas,Fort Bend County,7"
-"24033,Maryland,Prince George's County,6"
-"13075,Georgia,Cook County,6"
-"05139,Arkansas,Union County,6"
-"04013,Arizona,Maricopa County,6"
-"18035,Indiana,Delaware County,5"
-"27053,Minnesota,Hennepin County,5"
-"01073,Alabama,Jefferson County,5"
-"05007,Arkansas,Benton County,5"
-"06073,California,San Diego County,5"
-"06059,California,Orange County,5"
-"17095,Illinois,Knox County,5"
-"42003,Pennsylvania,Allegheny County,4"
-"12047,Florida,Hamilton County,4"
-"06083,California,Santa Barbara County,4"
-"24003,Maryland,Anne Arundel County,4"
-"36061,New York,New York County,4"
-"27003,Minnesota,Anoka County,4"
-"27019,Minnesota,Carver County,4"
-"39025,Ohio,Clermont County,4"
-"37183,North Carolina,Wake County,4"
-"05061,Arkansas,Howard County,4"
-"08013,Colorado,Boulder County,4"
-"42017,Pennsylvania,Bucks County,3"
-"36109,New York,Tompkins County,3"
-"36001,New York,Albany County,3"
-"51059,Virginia,Fairfax County,3"
-"42101,Pennsylvania,Philadelphia County,3"
-"06081,California,San Mateo County,3"
-"10003,Delaware,New Castle County,3"
-"12001,Florida,Alachua County,3"
-"24005,Maryland,Baltimore County,3"
-"39035,Ohio,Cuyahoga County,3"
-"51107,Virginia,Loudoun County,3"
-"26161,Michigan,Washtenaw County,3"
-"24510,Maryland,Baltimore city,3"
-"48269,Texas,King County,3"
-"17131,Illinois,Mercer County,3"
-"55025,Wisconsin,Dane County,3"
-"17019,Illinois,Champaign County,3"
-"13067,Georgia,Cobb County,3"
-"01049,Alabama,DeKalb County,3"
-"01059,Alabama,Franklin County,3"
-"05049,Arkansas,Fulton County,3"
-"48209,Texas,Hays County,3"
-"53035,Washington,Kitsap County,3"
-"45025,South Carolina,Chesterfield County,2"
-"37057,North Carolina,Davidson County,2"
-"51075,Virginia,Goochland County,2"
-"51087,Virginia,Henrico County,2"
-"36083,New York,Rensselaer County,2"
-"48453,Texas,Travis County,2"
-"17199,Illinois,Williamson County,2"
-"25009,Massachusetts,Essex County,2"
-"42077,Pennsylvania,Lehigh County,2"
-"12073,Florida,Leon County,2"
-"01129,Alabama,Washington County,2"
-"06113,California,Yolo County,2"
-"51013,Virginia,Arlington County,2"
-"01047,Alabama,Dallas County,2"
-"19169,Iowa,Story County,2"
-"01099,Alabama,Monroe County,2"
-"36093,New York,Schenectady County,2"
-"12009,Florida,Brevard County,2"
-"04019,Arizona,Pima County,2"
-"08117,Colorado,Summit County,2"
-"24047,Maryland,Worcester County,2"
-"25015,Massachusetts,Hampshire County,2"
-"36119,New York,Westchester County,2"
-"08005,Colorado,Arapahoe County,2"
-"54061,West Virginia,Monongalia County,2"
-"08001,Colorado,Adams County,2"
-"31109,Nebraska,Lancaster County,2"
-"25021,Massachusetts,Norfolk County,2"
-"05009,Arkansas,Boone County,2"
-"48085,Texas,Collin County,2"
-"37063,North Carolina,Durham County,2"
-"36029,New York,Erie County,2"
-"37131,North Carolina,Northampton County,2"
-"48439,Texas,Tarrant County,2"
-"24025,Maryland,Harford County,1.5"
-"09009,Connecticut,New Haven County,1.5"
-"04023,Arizona,Santa Cruz County,1.5"
-"24021,Maryland,Frederick County,1.5"
-"34019,New Jersey,Hunterdon County,1.5"
-"17197,Illinois,Will County,1.5"
-"23031,Maine,York County,1.5"
-"16019,Idaho,Bonneville County,1.5"
-"48121,Texas,Denton County,1.5"
-"08035,Colorado,Douglas County,1.5"
-"22033,Louisiana,East Baton Rouge Parish,1.5"
-"12057,Florida,Hillsborough County,1.5"
-"01089,Alabama,Madison County,1.5"
-"34025,New Jersey,Monmouth County,1.5"
-"12086,Florida,Miami-Dade County,1.5"
-"01107,Alabama,Pickens County,1.5"
-"44007,Rhode Island,Providence County,1.5"
-"06065,California,Riverside County,1.5"
-"09013,Connecticut,Tolland County,1.5"
-"01125,Alabama,Tuscaloosa County,1.5"
-"51003,Virginia,Albemarle County,1.5"
-"48029,Texas,Bexar County,1.5"
-"41005,Oregon,Clackamas County,1.5"
-"48091,Texas,Comal County,1.5"
-"06013,California,Contra Costa County,1.5"
-"08041,Colorado,El Paso County,1.5"
-"26099,Michigan,Macomb County,1.5"
-"49035,Utah,Salt Lake County,1.5"
-"18141,Indiana,St. Joseph County,1.5"
-"17175,Illinois,Stark County,1.5"
-"45003,South Carolina,Aiken County,1.5"
-"01027,Alabama,Clay County,1.5"
-"01071,Alabama,Jackson County,1.5"
-"22051,Louisiana,Jefferson Parish,1.5"
-"20119,Kansas,Meade County,1.5"
-"41051,Oregon,Multnomah County,1.5"
-"26125,Michigan,Oakland County,1.5"
-"22071,Louisiana,Orleans Parish,1.5"
-"27113,Minnesota,Pennington County,1.5"
-"29165,Missouri,Platte County,1.5"
-"23025,Maine,Somerset County,1.5"
-"13301,Georgia,Warren County,1.5"
-"04005,Arizona,Coconino County,1.5"
-"51095,Virginia,James City County,1.5"
-"01117,Alabama,Shelby County,1.5"
-"12005,Florida,Bay County,1.5"
-"09001,Connecticut,Fairfield County,1.5"
-"45083,South Carolina,Spartanburg County,1.5"
-"06111,California,Ventura County,1.5"
-"32031,Nevada,Washoe County,1.5"
-"34001,New Jersey,Atlantic County,1.5"
-"48039,Texas,Brazoria County,1.5"
-"05019,Arkansas,Clark County,1.5"
-"05025,Arkansas,Cleveland County,1.5"
-"15003,Hawaii,Honolulu County,1.5"
-"05071,Arkansas,Johnson County,1.5"
-"55079,Wisconsin,Milwaukee County,1.5"
-"20127,Kansas,Morris County,1.5"
-"51153,Virginia,Prince William County,1.5"
-"06067,California,Sacramento County,1.5"
-"49049,Utah,Utah County,1.5"
-"08123,Colorado,Weld County,1.5"
-"40037,Oklahoma,Creek County,1.5"
-"36027,New York,Dutchess County,1.5"
-"34015,New Jersey,Gloucester County,1.5"
-"13135,Georgia,Gwinnett County,1.5"
-"06029,California,Kern County,1.5"
-"20101,Kansas,Lane County,1.5"
-"01081,Alabama,Lee County,1.5"
-"45063,South Carolina,Lexington County,1.5"
-"48303,Texas,Lubbock County,1.5"
-"40109,Oklahoma,Oklahoma County,1.5"
-"20139,Kansas,Osage County,1.5"
-"17159,Illinois,Richland County,1.5"
-"33017,New Hampshire,Strafford County,1.5"
-"40143,Oklahoma,Tulsa County,1.5"
-"13305,Georgia,Wayne County,1.5"
-"39173,Ohio,Wood County,1.5"
-"16001,Idaho,Ada County,1.5"
-"36007,New York,Broome County,1.5"
-"01013,Alabama,Butler County,1.5"
-"21037,Kentucky,Campbell County,1.5"
-"17017,Illinois,Cass County,1.5"
-"42029,Pennsylvania,Chester County,1.5"
-"50007,Vermont,Chittenden County,1.5"
-"28035,Mississippi,Forrest County,1.5"
-"45045,South Carolina,Greenville County,1.5"
-"37081,North Carolina,Guilford County,1.5"
-"09003,Connecticut,Hartford County,1.5"
-"34017,New Jersey,Hudson County,1.5"
-"06047,California,Merced County,1.5"
-"12089,Florida,Nassau County,1.5"
-"09011,Connecticut,New London County,1.5"
-"16071,Idaho,Oneida County,1.5"
-"17143,Illinois,Peoria County,1.5"
-"12103,Florida,Pinellas County,1.5"
-"19149,Iowa,Plymouth County,1.5"
-"39133,Ohio,Portage County,1.5"
-"05119,Arkansas,Pulaski County,1.5"
-"37161,North Carolina,Rutherford County,1.5"
-"31153,Nebraska,Sarpy County,1.5"
-"08115,Colorado,Sedgwick County,1.5"
-"12117,Florida,Seminole County,1.5"
-"27137,Minnesota,St. Louis County,1.5"
-"17179,Illinois,Tazewell County,1.5"
-"18167,Indiana,Vigo County,1.5"
-"04025,Arizona,Yavapai County,1.5"
-"25001,Massachusetts,Barnstable County,1.5"
-"45015,South Carolina,Berkeley County,1.5"
-"51023,Virginia,Botetourt County,1.5"
-"24015,Maryland,Cecil County,1.5"
-"45019,South Carolina,Charleston County,1.5"
-"17035,Illinois,Cumberland County,1.5"
-"42043,Pennsylvania,Dauphin County,1.5"
-"35013,New Mexico,Dona Ana County,1.5"
-"24019,Maryland,Dorchester County,1.5"
-"26045,Michigan,Eaton County,1.5"
-"55035,Wisconsin,Eau Claire County,1.5"
-"48135,Texas,Ector County,1.5"
-"48167,Texas,Galveston County,1.5"
-"35023,New Mexico,Hidalgo County,1.5"
-"26065,Michigan,Ingham County,1.5"
-"39093,Ohio,Lorain County,1.5"
-"39099,Ohio,Mahoning County,1.5"
-"30063,Montana,Missoula County,1.5"
-"06053,California,Monterey County,1.5"
-"12091,Florida,Okaloosa County,1.5"
-"20143,Kansas,Ottawa County,1.5"
-"12099,Florida,Palm Beach County,1.5"
-"06061,California,Placer County,1.5"
-"51161,Virginia,Roanoke County,1.5"
-"36087,New York,Rockland County,1.5"
-"06071,California,San Bernardino County,1.5"
-"06079,California,San Luis Obispo County,1.5"
-"17167,Illinois,Sangamon County,1.5"
-"36091,New York,Saratoga County,1.5"
-"20183,Kansas,Smith County,1.5"
-"06095,California,Solano County,1.5"
-"06097,California,Sonoma County,1.5"
-"53063,Washington,Spokane County,1.5"
-"51177,Virginia,Spotsylvania County,1.5"
-"01115,Alabama,St. Clair County,1.5"
-"18163,Indiana,Vanderburgh County,1.5"
-"55133,Wisconsin,Waukesha County,1.5"
+id,state,county,rate
+01101,Alabama,Montgomery County,28
+06085,California,Santa Clara County,16
+25025,Massachusetts,Suffolk County,15
+11001,District of Columbia,District of Columbia,15
+06001,California,Alameda County,14
+09007,Connecticut,Middlesex County,14
+20003,Kansas,Anderson County,13
+06037,California,Los Angeles County,11
+01063,Alabama,Greene County,10
+17043,Illinois,DuPage County,10
+35001,New Mexico,Bernalillo County,9
+35043,New Mexico,Sandoval County,9
+13145,Georgia,Harris County,7
+48157,Texas,Fort Bend County,7
+24033,Maryland,Prince George's County,6
+13075,Georgia,Cook County,6
+05139,Arkansas,Union County,6
+04013,Arizona,Maricopa County,6
+18035,Indiana,Delaware County,5
+27053,Minnesota,Hennepin County,5
+01073,Alabama,Jefferson County,5
+05007,Arkansas,Benton County,5
+06073,California,San Diego County,5
+06059,California,Orange County,5
+17095,Illinois,Knox County,5
+42003,Pennsylvania,Allegheny County,4
+12047,Florida,Hamilton County,4
+06083,California,Santa Barbara County,4
+24003,Maryland,Anne Arundel County,4
+36061,New York,New York County,4
+27003,Minnesota,Anoka County,4
+27019,Minnesota,Carver County,4
+39025,Ohio,Clermont County,4
+37183,North Carolina,Wake County,4
+05061,Arkansas,Howard County,4
+08013,Colorado,Boulder County,4
+42017,Pennsylvania,Bucks County,3
+36109,New York,Tompkins County,3
+36001,New York,Albany County,3
+51059,Virginia,Fairfax County,3
+42101,Pennsylvania,Philadelphia County,3
+06081,California,San Mateo County,3
+10003,Delaware,New Castle County,3
+12001,Florida,Alachua County,3
+24005,Maryland,Baltimore County,3
+39035,Ohio,Cuyahoga County,3
+51107,Virginia,Loudoun County,3
+26161,Michigan,Washtenaw County,3
+24510,Maryland,Baltimore city,3
+48269,Texas,King County,3
+17131,Illinois,Mercer County,3
+55025,Wisconsin,Dane County,3
+17019,Illinois,Champaign County,3
+13067,Georgia,Cobb County,3
+01049,Alabama,DeKalb County,3
+01059,Alabama,Franklin County,3
+05049,Arkansas,Fulton County,3
+48209,Texas,Hays County,3
+53035,Washington,Kitsap County,3
+45025,South Carolina,Chesterfield County,2
+37057,North Carolina,Davidson County,2
+51075,Virginia,Goochland County,2
+51087,Virginia,Henrico County,2
+36083,New York,Rensselaer County,2
+48453,Texas,Travis County,2
+17199,Illinois,Williamson County,2
+25009,Massachusetts,Essex County,2
+42077,Pennsylvania,Lehigh County,2
+12073,Florida,Leon County,2
+01129,Alabama,Washington County,2
+06113,California,Yolo County,2
+51013,Virginia,Arlington County,2
+01047,Alabama,Dallas County,2
+19169,Iowa,Story County,2
+01099,Alabama,Monroe County,2
+36093,New York,Schenectady County,2
+12009,Florida,Brevard County,2
+04019,Arizona,Pima County,2
+08117,Colorado,Summit County,2
+24047,Maryland,Worcester County,2
+25015,Massachusetts,Hampshire County,2
+36119,New York,Westchester County,2
+08005,Colorado,Arapahoe County,2
+54061,West Virginia,Monongalia County,2
+08001,Colorado,Adams County,2
+31109,Nebraska,Lancaster County,2
+25021,Massachusetts,Norfolk County,2
+05009,Arkansas,Boone County,2
+48085,Texas,Collin County,2
+37063,North Carolina,Durham County,2
+36029,New York,Erie County,2
+37131,North Carolina,Northampton County,2
+48439,Texas,Tarrant County,2
+24025,Maryland,Harford County,1.5
+09009,Connecticut,New Haven County,1.5
+04023,Arizona,Santa Cruz County,1.5
+24021,Maryland,Frederick County,1.5
+34019,New Jersey,Hunterdon County,1.5
+17197,Illinois,Will County,1.5
+23031,Maine,York County,1.5
+16019,Idaho,Bonneville County,1.5
+48121,Texas,Denton County,1.5
+08035,Colorado,Douglas County,1.5
+22033,Louisiana,East Baton Rouge Parish,1.5
+12057,Florida,Hillsborough County,1.5
+01089,Alabama,Madison County,1.5
+34025,New Jersey,Monmouth County,1.5
+12086,Florida,Miami-Dade County,1.5
+01107,Alabama,Pickens County,1.5
+44007,Rhode Island,Providence County,1.5
+06065,California,Riverside County,1.5
+09013,Connecticut,Tolland County,1.5
+01125,Alabama,Tuscaloosa County,1.5
+51003,Virginia,Albemarle County,1.5
+48029,Texas,Bexar County,1.5
+41005,Oregon,Clackamas County,1.5
+48091,Texas,Comal County,1.5
+06013,California,Contra Costa County,1.5
+08041,Colorado,El Paso County,1.5
+26099,Michigan,Macomb County,1.5
+49035,Utah,Salt Lake County,1.5
+18141,Indiana,St. Joseph County,1.5
+17175,Illinois,Stark County,1.5
+45003,South Carolina,Aiken County,1.5
+01027,Alabama,Clay County,1.5
+01071,Alabama,Jackson County,1.5
+22051,Louisiana,Jefferson Parish,1.5
+20119,Kansas,Meade County,1.5
+41051,Oregon,Multnomah County,1.5
+26125,Michigan,Oakland County,1.5
+22071,Louisiana,Orleans Parish,1.5
+27113,Minnesota,Pennington County,1.5
+29165,Missouri,Platte County,1.5
+23025,Maine,Somerset County,1.5
+13301,Georgia,Warren County,1.5
+04005,Arizona,Coconino County,1.5
+51095,Virginia,James City County,1.5
+01117,Alabama,Shelby County,1.5
+12005,Florida,Bay County,1.5
+09001,Connecticut,Fairfield County,1.5
+45083,South Carolina,Spartanburg County,1.5
+06111,California,Ventura County,1.5
+32031,Nevada,Washoe County,1.5
+34001,New Jersey,Atlantic County,1.5
+48039,Texas,Brazoria County,1.5
+05019,Arkansas,Clark County,1.5
+05025,Arkansas,Cleveland County,1.5
+15003,Hawaii,Honolulu County,1.5
+05071,Arkansas,Johnson County,1.5
+55079,Wisconsin,Milwaukee County,1.5
+20127,Kansas,Morris County,1.5
+51153,Virginia,Prince William County,1.5
+06067,California,Sacramento County,1.5
+49049,Utah,Utah County,1.5
+08123,Colorado,Weld County,1.5
+40037,Oklahoma,Creek County,1.5
+36027,New York,Dutchess County,1.5
+34015,New Jersey,Gloucester County,1.5
+13135,Georgia,Gwinnett County,1.5
+06029,California,Kern County,1.5
+20101,Kansas,Lane County,1.5
+01081,Alabama,Lee County,1.5
+45063,South Carolina,Lexington County,1.5
+48303,Texas,Lubbock County,1.5
+40109,Oklahoma,Oklahoma County,1.5
+20139,Kansas,Osage County,1.5
+17159,Illinois,Richland County,1.5
+33017,New Hampshire,Strafford County,1.5
+40143,Oklahoma,Tulsa County,1.5
+13305,Georgia,Wayne County,1.5
+39173,Ohio,Wood County,1.5
+16001,Idaho,Ada County,1.5
+36007,New York,Broome County,1.5
+01013,Alabama,Butler County,1.5
+21037,Kentucky,Campbell County,1.5
+17017,Illinois,Cass County,1.5
+42029,Pennsylvania,Chester County,1.5
+50007,Vermont,Chittenden County,1.5
+28035,Mississippi,Forrest County,1.5
+45045,South Carolina,Greenville County,1.5
+37081,North Carolina,Guilford County,1.5
+09003,Connecticut,Hartford County,1.5
+34017,New Jersey,Hudson County,1.5
+06047,California,Merced County,1.5
+12089,Florida,Nassau County,1.5
+09011,Connecticut,New London County,1.5
+16071,Idaho,Oneida County,1.5
+17143,Illinois,Peoria County,1.5
+12103,Florida,Pinellas County,1.5
+19149,Iowa,Plymouth County,1.5
+39133,Ohio,Portage County,1.5
+05119,Arkansas,Pulaski County,1.5
+37161,North Carolina,Rutherford County,1.5
+31153,Nebraska,Sarpy County,1.5
+08115,Colorado,Sedgwick County,1.5
+12117,Florida,Seminole County,1.5
+27137,Minnesota,St. Louis County,1.5
+17179,Illinois,Tazewell County,1.5
+18167,Indiana,Vigo County,1.5
+04025,Arizona,Yavapai County,1.5
+25001,Massachusetts,Barnstable County,1.5
+45015,South Carolina,Berkeley County,1.5
+51023,Virginia,Botetourt County,1.5
+24015,Maryland,Cecil County,1.5
+45019,South Carolina,Charleston County,1.5
+17035,Illinois,Cumberland County,1.5
+42043,Pennsylvania,Dauphin County,1.5
+35013,New Mexico,Dona Ana County,1.5
+24019,Maryland,Dorchester County,1.5
+26045,Michigan,Eaton County,1.5
+55035,Wisconsin,Eau Claire County,1.5
+48135,Texas,Ector County,1.5
+48167,Texas,Galveston County,1.5
+35023,New Mexico,Hidalgo County,1.5
+26065,Michigan,Ingham County,1.5
+39093,Ohio,Lorain County,1.5
+39099,Ohio,Mahoning County,1.5
+30063,Montana,Missoula County,1.5
+06053,California,Monterey County,1.5
+12091,Florida,Okaloosa County,1.5
+20143,Kansas,Ottawa County,1.5
+12099,Florida,Palm Beach County,1.5
+06061,California,Placer County,1.5
+51161,Virginia,Roanoke County,1.5
+36087,New York,Rockland County,1.5
+06071,California,San Bernardino County,1.5
+06079,California,San Luis Obispo County,1.5
+17167,Illinois,Sangamon County,1.5
+36091,New York,Saratoga County,1.5
+20183,Kansas,Smith County,1.5
+06095,California,Solano County,1.5
+06097,California,Sonoma County,1.5
+53063,Washington,Spokane County,1.5
+51177,Virginia,Spotsylvania County,1.5
+01115,Alabama,St. Clair County,1.5
+18163,Indiana,Vanderburgh County,1.5
+55133,Wisconsin,Waukesha County,1.5
