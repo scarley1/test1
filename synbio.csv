@@ -1,414 +1,414 @@
-"id,state,county,rate"
-"35033,Alabama,Cullman County,2"
-"35020,Alabama,Jefferson County,6"
-"36849,Alabama,Lee County,2"
-"35899,Alabama,Madison County,2"
-"36688,Alabama,Mobile County,2"
-"35043,Alabama,Shelby County,17"
-"35032,Alabama,Talladega County,6"
-"86011,Arizona,Coconino County,2"
-"85004,Arizona,Maricopa County,47"
-"85721,Arizona,Pima County,31"
-"85350,Arizona,Yuma County,5"
-"72401,Arkansas,Craighead County,3"
-"72035,Arkansas,Faulkner County,2"
-"72076,Arkansas,Pulaski County,12"
-"72701,Arkansas,Washington County,5"
-"72074,Arkansas,Woodruff County,2"
-"09107,Armed Forces Africa, County,4"
-"34032,Armed Forces Americas, County,7"
-"94538,California,Alameda County,216"
-"95929,California,Butte County,2"
-"94547,California,Contra Costa County,10"
-"93740,California,Fresno County,2"
-"90024,California,Los Angeles County,171"
-"92697,California,Orange County,18"
-"92502,California,Riverside County,29"
-"94248,California,Sacramento County,6"
-"91701,California,San Bernardino County,4"
-"91905,California,San Diego County,132"
-"94107,California,San Francisco County,27"
-"95366,California,San Joaquin County,2"
-"93430,California,San Luis Obispo County,2"
-"94025,California,San Mateo County,13"
-"93106,California,Santa Barbara County,26"
-"94035,California,Santa Clara County,104"
-"95064,California,Santa Cruz County,3"
-"95616,California,Yolo County,58"
-"80045,Colorado,Adams County,3"
-"81101,Colorado,Alamosa County,2"
-"80027,Colorado,Boulder County,47"
-"80208,Colorado,Denver County,4"
-"80125,Colorado,Douglas County,24"
-"80401,Colorado,Jefferson County,3"
-"80521,Colorado,Larimer County,26"
-"80638,Colorado,Weld County,2"
-"06902,Connecticut,Fairfield County,2"
-"06019,Connecticut,Hartford County,15"
-"06459,Connecticut,Middlesex County,2"
-"06510,Connecticut,New Haven County,42"
-"06340,Connecticut,New London County,2"
-"06269,Connecticut,Tolland County,5"
-"19901,Delaware,Kent County,2"
-"19711,Delaware,New Castle County,31"
-"20003,District of Columbia,District Of Columbia County,39"
-"32601,Florida,Alachua County,57"
-"32925,Florida,Brevard County,2"
-"33076,Florida,Broward County,7"
-"34450,Florida,Citrus County,2"
-"34141,Florida,Collier County,14"
-"34602,Florida,Hernando County,2"
-"33594,Florida,Hillsborough County,16"
-"33932,Florida,Lee County,2"
-"32306,Florida,Leon County,2"
-"34956,Florida,Martin County,2"
-"33101,Florida,Miami-Dade County,18"
-"32703,Florida,Orange County,4"
-"33458,Florida,Palm Beach County,3"
-"33850,Florida,Polk County,4"
-"32004,Florida,Saint Johns County,2"
-"34238,Florida,Sarasota County,9"
-"31062,Georgia,Baldwin County,5"
-"31403,Georgia,Chatham County,2"
-"30602,Georgia,Clarke County,12"
-"31535,Georgia,Coffee County,3"
-"30033,Georgia,Dekalb County,27"
-"31077,Georgia,Dodge County,5"
-"30303,Georgia,Fulton County,37"
-"30019,Georgia,Gwinnett County,2"
-"31096,Georgia,Johnson County,2"
-"31320,Georgia,Liberty County,2"
-"30625,Georgia,Morgan County,2"
-"31008,Georgia,Peach County,2"
-"30912,Georgia,Richmond County,2"
-"30013,Georgia,Rockdale County,21"
-"31793,Georgia,Tift County,2"
-"96822,Hawaii,Honolulu County,2"
-"83616,Idaho,Ada County,6"
-"83209,Idaho,Bannock County,2"
-"83844,Idaho,Latah County,2"
-"61801,Illinois,Champaign County,100"
-"62250,Illinois,Clinton County,2"
-"60131,Illinois,Cook County,126"
-"60439,Illinois,Du Page County,4"
-"61413,Illinois,Henry County,2"
-"61001,Illinois,Jo Daviess County,2"
-"61740,Illinois,Livingston County,2"
-"61704,Illinois,Mclean County,2"
-"61231,Illinois,Mercer County,2"
-"62032,Illinois,Montgomery County,2"
-"61604,Illinois,Peoria County,4"
-"61265,Illinois,Rock Island County,6"
-"61810,Illinois,Vermilion County,2"
-"46071,Indiana,Boone County,5"
-"47306,Indiana,Delaware County,2"
-"47521,Indiana,Dubois County,2"
-"46202,Indiana,Marion County,12"
-"47401,Indiana,Monroe County,7"
-"47023,Indiana,Ripley County,2"
-"46556,Indiana,St Joseph County,7"
-"47011,Indiana,Switzerland County,2"
-"47906,Indiana,Tippecanoe County,9"
-"46980,Indiana,Wabash County,7"
-"50674,Iowa,Bremer County,2"
-"51014,Iowa,Cherokee County,2"
-"50603,Iowa,Chickasaw County,2"
-"50003,Iowa,Dallas County,2"
-"50250,Iowa,Guthrie County,2"
-"52074,Iowa,Jackson County,10"
-"52240,Iowa,Johnson County,12"
-"50556,Iowa,Kossuth County,2"
-"50138,Iowa,Marion County,2"
-"50005,Iowa,Marshall County,2"
-"50010,Iowa,Story County,15"
-"50139,Iowa,Warren County,2"
-"50569,Iowa,Webster County,2"
-"67010,Kansas,Butler County,2"
-"66045,Kansas,Douglas County,10"
-"66030,Kansas,Johnson County,2"
-"66451,Kansas,Osage County,2"
-"66506,Kansas,Riley County,2"
-"67663,Kansas,Rooks County,2"
-"67401,Kansas,Saline County,5"
-"67037,Kansas,Sedgwick County,2"
-"66160,Kansas,Wyandotte County,2"
-"41080,Kentucky,Boone County,4"
-"40129,Kentucky,Bullitt County,2"
-"41099,Kentucky,Campbell County,2"
-"40536,Kentucky,Fayette County,6"
-"40219,Kentucky,Jefferson County,15"
-"40724,Kentucky,Laurel County,2"
-"41819,Kentucky,Letcher County,2"
-"40004,Kentucky,Nelson County,2"
-"41566,Kentucky,Pike County,2"
-"40076,Kentucky,Shelby County,2"
-"71110,Louisiana,Bossier County,2"
-"71004,Louisiana,Caddo County,4"
-"71003,Louisiana,Claiborne County,2"
-"70803,Louisiana,East Baton Rouge County,2"
-"70569,Louisiana,Iberia County,13"
-"70010,Louisiana,Jefferson County,4"
-"70118,Louisiana,Orleans County,19"
-"70550,Louisiana,Saint Landry County,6"
-"04743,Maine,Aroostook County,4"
-"04103,Maine,Cumberland County,8"
-"04901,Maine,Kennebec County,2"
-"04469,Maine,Penobscot County,2"
-"04001,Maine,York County,2"
-"21502,Maryland,Allegany County,2"
-"21201,Maryland,Baltimore City County,74"
-"21071,Maryland,Baltimore County,6"
-"21701,Maryland,Frederick County,15"
-"20723,Maryland,Howard County,4"
-"20814,Maryland,Montgomery County,79"
-"20705,Maryland,Prince Georges County,41"
-"21720,Maryland,Washington County,2"
-"02540,Massachusetts,Barnstable County,4"
-"01224,Massachusetts,Berkshire County,2"
-"01908,Massachusetts,Essex County,9"
-"01330,Massachusetts,Franklin County,2"
-"01069,Massachusetts,Hampden County,8"
-"01002,Massachusetts,Hampshire County,20"
-"01701,Massachusetts,Middlesex County,340"
-"02093,Massachusetts,Norfolk County,7"
-"02044,Massachusetts,Plymouth County,4"
-"02109,Massachusetts,Suffolk County,212"
-"01605,Massachusetts,Worcester County,14"
-"49060,Michigan,Barry County,2"
-"49069,Michigan,Calhoun County,2"
-"49076,Michigan,Eaton County,2"
-"49931,Michigan,Houghton County,4"
-"48824,Michigan,Ingham County,15"
-"48080,Michigan,Macomb County,2"
-"48009,Michigan,Oakland County,2"
-"48105,Michigan,Washtenaw County,39"
-"48201,Michigan,Wayne County,7"
-"55411,Minnesota,Hennepin County,77"
-"56127,Minnesota,Martin County,2"
-"55905,Minnesota,Olmsted County,11"
-"55108,Minnesota,Ramsey County,18"
-"55021,Minnesota,Rice County,2"
-"55128,Minnesota,Washington County,2"
-"39120,Mississippi,Adams County,2"
-"39406,Mississippi,Forrest County,2"
-"39762,Mississippi,Oktibbeha County,2"
-"38610,Mississippi,Tippah County,2"
-"39180,Mississippi,Warren County,2"
-"38702,Mississippi,Washington County,2"
-"39040,Mississippi,Yazoo County,2"
-"65211,Missouri,Boone County,8"
-"64507,Missouri,Buchanan County,2"
-"64108,Missouri,Jackson County,4"
-"64673,Missouri,Mercer County,2"
-"63103,Missouri,Saint Louis City County,19"
-"63001,Missouri,Saint Louis County,35"
-"59717,Montana,Gallatin County,4"
-"59801,Montana,Missoula County,4"
-"59840,Montana,Ravalli County,2"
-"69120,Nebraska,Custer County,15"
-"68198,Nebraska,Douglas County,2"
-"68521,Nebraska,Lancaster County,19"
-"68305,Nebraska,Nemaha County,2"
-"03755,New Hampshire,Grafton County,5"
-"03101,New Hampshire,Hillsborough County,2"
-"03044,New Hampshire,Rockingham County,2"
-"08036,New Jersey,Burlington County,2"
-"08003,New Jersey,Camden County,46"
-"07102,New Jersey,Essex County,7"
-"08028,New Jersey,Gloucester County,3"
-"07030,New Jersey,Hudson County,2"
-"08826,New Jersey,Hunterdon County,4"
-"08540,New Jersey,Mercer County,35"
-"08854,New Jersey,Middlesex County,11"
-"08807,New Jersey,Somerset County,2"
-"07033,New Jersey,Union County,4"
-"87131,New Mexico,Bernalillo County,11"
-"88003,New Mexico,Dona Ana County,2"
-"87544,New Mexico,Los Alamos County,5"
-"87501,New Mexico,Santa Fe County,5"
-"87801,New Mexico,Socorro County,2"
-"12120,New York,Albany County,6"
-"10461,New York,Bronx County,12"
-"13902,New York,Broome County,2"
-"14760,New York,Cattaraugus County,2"
-"13092,New York,Cayuga County,2"
-"12901,New York,Clinton County,2"
-"12136,New York,Columbia County,4"
-"13045,New York,Cortland County,2"
-"14080,New York,Erie County,20"
-"13353,New York,Hamilton County,2"
-"11201,New York,Kings County,10"
-"13346,New York,Madison County,4"
-"14627,New York,Monroe County,4"
-"11001,New York,Nassau County,3"
-"10003,New York,New York County,113"
-"13210,New York,Onondaga County,7"
-"14424,New York,Ontario County,7"
-"10921,New York,Orange County,2"
-"14476,New York,Orleans County,19"
-"13131,New York,Oswego County,2"
-"13342,New York,Otsego County,2"
-"10524,New York,Putnam County,2"
-"11364,New York,Queens County,10"
-"12180,New York,Rensselaer County,36"
-"10314,New York,Richmond County,2"
-"13699,New York,Saint Lawrence County,2"
-"12065,New York,Saratoga County,2"
-"11724,New York,Suffolk County,18"
-"14850,New York,Tompkins County,49"
-"12489,New York,Ulster County,4"
-"12820,New York,Warren County,5"
-"10504,New York,Westchester County,38"
-"28007,North Carolina,Anson County,2"
-"28644,North Carolina,Ashe County,2"
-"28770,North Carolina,Buncombe County,2"
-"27705,North Carolina,Durham County,84"
-"27103,North Carolina,Forsyth County,4"
-"28006,North Carolina,Gaston County,7"
-"27402,North Carolina,Guilford County,5"
-"28660,North Carolina,Iredell County,6"
-"28725,North Carolina,Jackson County,2"
-"28203,North Carolina,Mecklenburg County,9"
-"28402,North Carolina,New Hanover County,2"
-"27514,North Carolina,Orange County,23"
-"27858,North Carolina,Pitt County,2"
-"28359,North Carolina,Robeson County,2"
-"28040,North Carolina,Rutherford County,23"
-"28009,North Carolina,Stanly County,2"
-"27606,North Carolina,Wake County,23"
-"58448,North Dakota,Griggs County,2"
-"45701,Ohio,Athens County,11"
-"45056,Ohio,Butler County,2"
-"45166,Ohio,Clinton County,2"
-"44106,Ohio,Cuyahoga County,10"
-"43150,Ohio,Fairfield County,2"
-"43205,Ohio,Franklin County,21"
-"45433,Ohio,Greene County,2"
-"45220,Ohio,Hamilton County,17"
-"45110,Ohio,Highland County,3"
-"44610,Ohio,Holmes County,2"
-"43006,Ohio,Knox County,2"
-"43721,Ohio,Licking County,2"
-"44035,Ohio,Lorain County,2"
-"43614,Ohio,Lucas County,2"
-"45432,Ohio,Montgomery County,9"
-"44242,Ohio,Portage County,2"
-"44221,Ohio,Summit County,7"
-"43007,Ohio,Union County,3"
-"44691,Ohio,Wayne County,2"
-"43403,Ohio,Wood County,2"
-"73019,Oklahoma,Cleveland County,4"
-"74601,Oklahoma,Kay County,2"
-"73010,Oklahoma,Mcclain County,2"
-"74078,Oklahoma,Payne County,4"
-"74104,Oklahoma,Tulsa County,2"
-"97331,Oregon,Benton County,9"
-"97070,Oregon,Clackamas County,2"
-"97403,Oregon,Lane County,2"
-"97310,Oregon,Marion County,2"
-"97080,Oregon,Multnomah County,8"
-"97850,Oregon,Union County,2"
-"97006,Oregon,Washington County,2"
-"15051,Pennsylvania,Allegheny County,50"
-"18071,Pennsylvania,Carbon County,2"
-"16801,Pennsylvania,Centre County,29"
-"17104,Pennsylvania,Dauphin County,8"
-"19041,Pennsylvania,Delaware County,2"
-"15310,Pennsylvania,Greene County,2"
-"15780,Pennsylvania,Jefferson County,2"
-"18440,Pennsylvania,Lackawanna County,2"
-"18051,Pennsylvania,Lehigh County,2"
-"16150,Pennsylvania,Mercer County,3"
-"19004,Pennsylvania,Montgomery County,14"
-"18015,Pennsylvania,Northampton County,5"
-"17071,Pennsylvania,Perry County,2"
-"19102,Pennsylvania,Philadelphia County,87"
-"00680,Puerto Rico,Mayaguez County,2"
-"02841,Rhode Island,Newport County,2"
-"02912,Rhode Island,Providence County,8"
-"29414,South Carolina,Charleston County,4"
-"29605,South Carolina,Greenville County,2"
-"29631,South Carolina,Pickens County,7"
-"29208,South Carolina,Richland County,4"
-"29590,South Carolina,Williamsburg County,2"
-"57007,South Dakota,Brookings County,2"
-"37830,Tennessee,Anderson County,19"
-"37013,Tennessee,Davidson County,23"
-"38047,Tennessee,Dyer County,2"
-"38010,Tennessee,Fayette County,2"
-"38330,Tennessee,Gibson County,2"
-"38042,Tennessee,Hardeman County,5"
-"37134,Tennessee,Humphreys County,3"
-"37932,Tennessee,Knox County,24"
-"38041,Tennessee,Lauderdale County,2"
-"38334,Tennessee,Mcnairy County,2"
-"38541,Tennessee,Overton County,2"
-"37073,Tennessee,Robertson County,2"
-"38027,Tennessee,Shelby County,30"
-"37075,Tennessee,Sumner County,12"
-"78026,Texas,Atascosa County,2"
-"78957,Texas,Bastrop County,2"
-"76502,Texas,Bell County,2"
-"78210,Texas,Bexar County,16"
-"77843,Texas,Brazos County,10"
-"79085,Texas,Castro County,2"
-"75002,Texas,Collin County,6"
-"75006,Texas,Dallas County,61"
-"75010,Texas,Denton County,6"
-"75120,Texas,Ellis County,5"
-"77555,Texas,Galveston County,3"
-"77004,Texas,Harris County,98"
-"75124,Texas,Henderson County,2"
-"76049,Texas,Hood County,3"
-"79005,Texas,Lipscomb County,2"
-"78350,Texas,Live Oak County,9"
-"79409,Texas,Lubbock County,4"
-"78850,Texas,Medina County,2"
-"76230,Texas,Montague County,2"
-"75105,Texas,Navarro County,2"
-"79104,Texas,Potter County,43"
-"79110,Texas,Randall County,2"
-"76821,Texas,Runnels County,3"
-"78352,Texas,San Patricio County,3"
-"76021,Texas,Tarrant County,11"
-"78701,Texas,Travis County,73"
-"77340,Texas,Walker County,2"
-"77446,Texas,Waller County,2"
-"77420,Texas,Wharton County,4"
-"84322,Utah,Cache County,6"
-"84084,Utah,Salt Lake County,51"
-"84062,Utah,Utah County,9"
-"05401,Vermont,Chittenden County,8"
-"05663,Vermont,Washington County,2"
-"22201,Virginia,Arlington County,6"
-"24201,Virginia,Bristol County,2"
-"22903,Virginia,Charlottesville City County,6"
-"22030,Virginia,Fairfax City County,2"
-"22184,Virginia,Fairfax County,2"
-"20131,Virginia,Loudoun County,10"
-"24060,Virginia,Montgomery County,63"
-"23501,Virginia,Norfolk City County,2"
-"23955,Virginia,Nottoway County,3"
-"22135,Virginia,Prince William County,2"
-"23173,Virginia,Richmond City County,7"
-"24006,Virginia,Roanoke City County,2"
-"99352,Washington,Benton County,6"
-"98052,Washington,King County,89"
-"98110,Washington,Kitsap County,3"
-"98021,Washington,Snohomish County,2"
-"99004,Washington,Spokane County,4"
-"99164,Washington,Whitman County,8"
-"25704,West Virginia,Cabell County,4"
-"25443,West Virginia,Jefferson County,2"
-"25123,West Virginia,Mason County,2"
-"26504,West Virginia,Monongalia County,4"
-"26170,West Virginia,Pleasants County,2"
-"53705,Wisconsin,Dane County,59"
-"54650,Wisconsin,La Crosse County,2"
-"53201,Wisconsin,Milwaukee County,6"
-"54124,Wisconsin,Oconto County,2"
-"54006,Wisconsin,Polk County,2"
-"54561,Wisconsin,Vilas County,2"
-"53114,Wisconsin,Walworth County,6"
-"82071,Wyoming,Albany County,3"
-"82512,Wyoming,Fremont County,2"
+id,state,county,rate
+35033,Alabama,Cullman County,2
+35020,Alabama,Jefferson County,6
+36849,Alabama,Lee County,2
+35899,Alabama,Madison County,2
+36688,Alabama,Mobile County,2
+35043,Alabama,Shelby County,17
+35032,Alabama,Talladega County,6
+86011,Arizona,Coconino County,2
+85004,Arizona,Maricopa County,47
+85721,Arizona,Pima County,31
+85350,Arizona,Yuma County,5
+72401,Arkansas,Craighead County,3
+72035,Arkansas,Faulkner County,2
+72076,Arkansas,Pulaski County,12
+72701,Arkansas,Washington County,5
+72074,Arkansas,Woodruff County,2
+09107,Armed Forces Africa, County,4
+34032,Armed Forces Americas, County,7
+94538,California,Alameda County,216
+95929,California,Butte County,2
+94547,California,Contra Costa County,10
+93740,California,Fresno County,2
+90024,California,Los Angeles County,171
+92697,California,Orange County,18
+92502,California,Riverside County,29
+94248,California,Sacramento County,6
+91701,California,San Bernardino County,4
+91905,California,San Diego County,132
+94107,California,San Francisco County,27
+95366,California,San Joaquin County,2
+93430,California,San Luis Obispo County,2
+94025,California,San Mateo County,13
+93106,California,Santa Barbara County,26
+94035,California,Santa Clara County,104
+95064,California,Santa Cruz County,3
+95616,California,Yolo County,58
+80045,Colorado,Adams County,3
+81101,Colorado,Alamosa County,2
+80027,Colorado,Boulder County,47
+80208,Colorado,Denver County,4
+80125,Colorado,Douglas County,24
+80401,Colorado,Jefferson County,3
+80521,Colorado,Larimer County,26
+80638,Colorado,Weld County,2
+06902,Connecticut,Fairfield County,2
+06019,Connecticut,Hartford County,15
+06459,Connecticut,Middlesex County,2
+06510,Connecticut,New Haven County,42
+06340,Connecticut,New London County,2
+06269,Connecticut,Tolland County,5
+19901,Delaware,Kent County,2
+19711,Delaware,New Castle County,31
+20003,District of Columbia,District Of Columbia County,39
+32601,Florida,Alachua County,57
+32925,Florida,Brevard County,2
+33076,Florida,Broward County,7
+34450,Florida,Citrus County,2
+34141,Florida,Collier County,14
+34602,Florida,Hernando County,2
+33594,Florida,Hillsborough County,16
+33932,Florida,Lee County,2
+32306,Florida,Leon County,2
+34956,Florida,Martin County,2
+33101,Florida,Miami-Dade County,18
+32703,Florida,Orange County,4
+33458,Florida,Palm Beach County,3
+33850,Florida,Polk County,4
+32004,Florida,Saint Johns County,2
+34238,Florida,Sarasota County,9
+31062,Georgia,Baldwin County,5
+31403,Georgia,Chatham County,2
+30602,Georgia,Clarke County,12
+31535,Georgia,Coffee County,3
+30033,Georgia,Dekalb County,27
+31077,Georgia,Dodge County,5
+30303,Georgia,Fulton County,37
+30019,Georgia,Gwinnett County,2
+31096,Georgia,Johnson County,2
+31320,Georgia,Liberty County,2
+30625,Georgia,Morgan County,2
+31008,Georgia,Peach County,2
+30912,Georgia,Richmond County,2
+30013,Georgia,Rockdale County,21
+31793,Georgia,Tift County,2
+96822,Hawaii,Honolulu County,2
+83616,Idaho,Ada County,6
+83209,Idaho,Bannock County,2
+83844,Idaho,Latah County,2
+61801,Illinois,Champaign County,100
+62250,Illinois,Clinton County,2
+60131,Illinois,Cook County,126
+60439,Illinois,Du Page County,4
+61413,Illinois,Henry County,2
+61001,Illinois,Jo Daviess County,2
+61740,Illinois,Livingston County,2
+61704,Illinois,Mclean County,2
+61231,Illinois,Mercer County,2
+62032,Illinois,Montgomery County,2
+61604,Illinois,Peoria County,4
+61265,Illinois,Rock Island County,6
+61810,Illinois,Vermilion County,2
+46071,Indiana,Boone County,5
+47306,Indiana,Delaware County,2
+47521,Indiana,Dubois County,2
+46202,Indiana,Marion County,12
+47401,Indiana,Monroe County,7
+47023,Indiana,Ripley County,2
+46556,Indiana,St Joseph County,7
+47011,Indiana,Switzerland County,2
+47906,Indiana,Tippecanoe County,9
+46980,Indiana,Wabash County,7
+50674,Iowa,Bremer County,2
+51014,Iowa,Cherokee County,2
+50603,Iowa,Chickasaw County,2
+50003,Iowa,Dallas County,2
+50250,Iowa,Guthrie County,2
+52074,Iowa,Jackson County,10
+52240,Iowa,Johnson County,12
+50556,Iowa,Kossuth County,2
+50138,Iowa,Marion County,2
+50005,Iowa,Marshall County,2
+50010,Iowa,Story County,15
+50139,Iowa,Warren County,2
+50569,Iowa,Webster County,2
+67010,Kansas,Butler County,2
+66045,Kansas,Douglas County,10
+66030,Kansas,Johnson County,2
+66451,Kansas,Osage County,2
+66506,Kansas,Riley County,2
+67663,Kansas,Rooks County,2
+67401,Kansas,Saline County,5
+67037,Kansas,Sedgwick County,2
+66160,Kansas,Wyandotte County,2
+41080,Kentucky,Boone County,4
+40129,Kentucky,Bullitt County,2
+41099,Kentucky,Campbell County,2
+40536,Kentucky,Fayette County,6
+40219,Kentucky,Jefferson County,15
+40724,Kentucky,Laurel County,2
+41819,Kentucky,Letcher County,2
+40004,Kentucky,Nelson County,2
+41566,Kentucky,Pike County,2
+40076,Kentucky,Shelby County,2
+71110,Louisiana,Bossier County,2
+71004,Louisiana,Caddo County,4
+71003,Louisiana,Claiborne County,2
+70803,Louisiana,East Baton Rouge County,2
+70569,Louisiana,Iberia County,13
+70010,Louisiana,Jefferson County,4
+70118,Louisiana,Orleans County,19
+70550,Louisiana,Saint Landry County,6
+04743,Maine,Aroostook County,4
+04103,Maine,Cumberland County,8
+04901,Maine,Kennebec County,2
+04469,Maine,Penobscot County,2
+04001,Maine,York County,2
+21502,Maryland,Allegany County,2
+21201,Maryland,Baltimore City County,74
+21071,Maryland,Baltimore County,6
+21701,Maryland,Frederick County,15
+20723,Maryland,Howard County,4
+20814,Maryland,Montgomery County,79
+20705,Maryland,Prince Georges County,41
+21720,Maryland,Washington County,2
+02540,Massachusetts,Barnstable County,4
+01224,Massachusetts,Berkshire County,2
+01908,Massachusetts,Essex County,9
+01330,Massachusetts,Franklin County,2
+01069,Massachusetts,Hampden County,8
+01002,Massachusetts,Hampshire County,20
+01701,Massachusetts,Middlesex County,340
+02093,Massachusetts,Norfolk County,7
+02044,Massachusetts,Plymouth County,4
+02109,Massachusetts,Suffolk County,212
+01605,Massachusetts,Worcester County,14
+49060,Michigan,Barry County,2
+49069,Michigan,Calhoun County,2
+49076,Michigan,Eaton County,2
+49931,Michigan,Houghton County,4
+48824,Michigan,Ingham County,15
+48080,Michigan,Macomb County,2
+48009,Michigan,Oakland County,2
+48105,Michigan,Washtenaw County,39
+48201,Michigan,Wayne County,7
+55411,Minnesota,Hennepin County,77
+56127,Minnesota,Martin County,2
+55905,Minnesota,Olmsted County,11
+55108,Minnesota,Ramsey County,18
+55021,Minnesota,Rice County,2
+55128,Minnesota,Washington County,2
+39120,Mississippi,Adams County,2
+39406,Mississippi,Forrest County,2
+39762,Mississippi,Oktibbeha County,2
+38610,Mississippi,Tippah County,2
+39180,Mississippi,Warren County,2
+38702,Mississippi,Washington County,2
+39040,Mississippi,Yazoo County,2
+65211,Missouri,Boone County,8
+64507,Missouri,Buchanan County,2
+64108,Missouri,Jackson County,4
+64673,Missouri,Mercer County,2
+63103,Missouri,Saint Louis City County,19
+63001,Missouri,Saint Louis County,35
+59717,Montana,Gallatin County,4
+59801,Montana,Missoula County,4
+59840,Montana,Ravalli County,2
+69120,Nebraska,Custer County,15
+68198,Nebraska,Douglas County,2
+68521,Nebraska,Lancaster County,19
+68305,Nebraska,Nemaha County,2
+03755,New Hampshire,Grafton County,5
+03101,New Hampshire,Hillsborough County,2
+03044,New Hampshire,Rockingham County,2
+08036,New Jersey,Burlington County,2
+08003,New Jersey,Camden County,46
+07102,New Jersey,Essex County,7
+08028,New Jersey,Gloucester County,3
+07030,New Jersey,Hudson County,2
+08826,New Jersey,Hunterdon County,4
+08540,New Jersey,Mercer County,35
+08854,New Jersey,Middlesex County,11
+08807,New Jersey,Somerset County,2
+07033,New Jersey,Union County,4
+87131,New Mexico,Bernalillo County,11
+88003,New Mexico,Dona Ana County,2
+87544,New Mexico,Los Alamos County,5
+87501,New Mexico,Santa Fe County,5
+87801,New Mexico,Socorro County,2
+12120,New York,Albany County,6
+10461,New York,Bronx County,12
+13902,New York,Broome County,2
+14760,New York,Cattaraugus County,2
+13092,New York,Cayuga County,2
+12901,New York,Clinton County,2
+12136,New York,Columbia County,4
+13045,New York,Cortland County,2
+14080,New York,Erie County,20
+13353,New York,Hamilton County,2
+11201,New York,Kings County,10
+13346,New York,Madison County,4
+14627,New York,Monroe County,4
+11001,New York,Nassau County,3
+10003,New York,New York County,113
+13210,New York,Onondaga County,7
+14424,New York,Ontario County,7
+10921,New York,Orange County,2
+14476,New York,Orleans County,19
+13131,New York,Oswego County,2
+13342,New York,Otsego County,2
+10524,New York,Putnam County,2
+11364,New York,Queens County,10
+12180,New York,Rensselaer County,36
+10314,New York,Richmond County,2
+13699,New York,Saint Lawrence County,2
+12065,New York,Saratoga County,2
+11724,New York,Suffolk County,18
+14850,New York,Tompkins County,49
+12489,New York,Ulster County,4
+12820,New York,Warren County,5
+10504,New York,Westchester County,38
+28007,North Carolina,Anson County,2
+28644,North Carolina,Ashe County,2
+28770,North Carolina,Buncombe County,2
+27705,North Carolina,Durham County,84
+27103,North Carolina,Forsyth County,4
+28006,North Carolina,Gaston County,7
+27402,North Carolina,Guilford County,5
+28660,North Carolina,Iredell County,6
+28725,North Carolina,Jackson County,2
+28203,North Carolina,Mecklenburg County,9
+28402,North Carolina,New Hanover County,2
+27514,North Carolina,Orange County,23
+27858,North Carolina,Pitt County,2
+28359,North Carolina,Robeson County,2
+28040,North Carolina,Rutherford County,23
+28009,North Carolina,Stanly County,2
+27606,North Carolina,Wake County,23
+58448,North Dakota,Griggs County,2
+45701,Ohio,Athens County,11
+45056,Ohio,Butler County,2
+45166,Ohio,Clinton County,2
+44106,Ohio,Cuyahoga County,10
+43150,Ohio,Fairfield County,2
+43205,Ohio,Franklin County,21
+45433,Ohio,Greene County,2
+45220,Ohio,Hamilton County,17
+45110,Ohio,Highland County,3
+44610,Ohio,Holmes County,2
+43006,Ohio,Knox County,2
+43721,Ohio,Licking County,2
+44035,Ohio,Lorain County,2
+43614,Ohio,Lucas County,2
+45432,Ohio,Montgomery County,9
+44242,Ohio,Portage County,2
+44221,Ohio,Summit County,7
+43007,Ohio,Union County,3
+44691,Ohio,Wayne County,2
+43403,Ohio,Wood County,2
+73019,Oklahoma,Cleveland County,4
+74601,Oklahoma,Kay County,2
+73010,Oklahoma,Mcclain County,2
+74078,Oklahoma,Payne County,4
+74104,Oklahoma,Tulsa County,2
+97331,Oregon,Benton County,9
+97070,Oregon,Clackamas County,2
+97403,Oregon,Lane County,2
+97310,Oregon,Marion County,2
+97080,Oregon,Multnomah County,8
+97850,Oregon,Union County,2
+97006,Oregon,Washington County,2
+15051,Pennsylvania,Allegheny County,50
+18071,Pennsylvania,Carbon County,2
+16801,Pennsylvania,Centre County,29
+17104,Pennsylvania,Dauphin County,8
+19041,Pennsylvania,Delaware County,2
+15310,Pennsylvania,Greene County,2
+15780,Pennsylvania,Jefferson County,2
+18440,Pennsylvania,Lackawanna County,2
+18051,Pennsylvania,Lehigh County,2
+16150,Pennsylvania,Mercer County,3
+19004,Pennsylvania,Montgomery County,14
+18015,Pennsylvania,Northampton County,5
+17071,Pennsylvania,Perry County,2
+19102,Pennsylvania,Philadelphia County,87
+00680,Puerto Rico,Mayaguez County,2
+02841,Rhode Island,Newport County,2
+02912,Rhode Island,Providence County,8
+29414,South Carolina,Charleston County,4
+29605,South Carolina,Greenville County,2
+29631,South Carolina,Pickens County,7
+29208,South Carolina,Richland County,4
+29590,South Carolina,Williamsburg County,2
+57007,South Dakota,Brookings County,2
+37830,Tennessee,Anderson County,19
+37013,Tennessee,Davidson County,23
+38047,Tennessee,Dyer County,2
+38010,Tennessee,Fayette County,2
+38330,Tennessee,Gibson County,2
+38042,Tennessee,Hardeman County,5
+37134,Tennessee,Humphreys County,3
+37932,Tennessee,Knox County,24
+38041,Tennessee,Lauderdale County,2
+38334,Tennessee,Mcnairy County,2
+38541,Tennessee,Overton County,2
+37073,Tennessee,Robertson County,2
+38027,Tennessee,Shelby County,30
+37075,Tennessee,Sumner County,12
+78026,Texas,Atascosa County,2
+78957,Texas,Bastrop County,2
+76502,Texas,Bell County,2
+78210,Texas,Bexar County,16
+77843,Texas,Brazos County,10
+79085,Texas,Castro County,2
+75002,Texas,Collin County,6
+75006,Texas,Dallas County,61
+75010,Texas,Denton County,6
+75120,Texas,Ellis County,5
+77555,Texas,Galveston County,3
+77004,Texas,Harris County,98
+75124,Texas,Henderson County,2
+76049,Texas,Hood County,3
+79005,Texas,Lipscomb County,2
+78350,Texas,Live Oak County,9
+79409,Texas,Lubbock County,4
+78850,Texas,Medina County,2
+76230,Texas,Montague County,2
+75105,Texas,Navarro County,2
+79104,Texas,Potter County,43
+79110,Texas,Randall County,2
+76821,Texas,Runnels County,3
+78352,Texas,San Patricio County,3
+76021,Texas,Tarrant County,11
+78701,Texas,Travis County,73
+77340,Texas,Walker County,2
+77446,Texas,Waller County,2
+77420,Texas,Wharton County,4
+84322,Utah,Cache County,6
+84084,Utah,Salt Lake County,51
+84062,Utah,Utah County,9
+05401,Vermont,Chittenden County,8
+05663,Vermont,Washington County,2
+22201,Virginia,Arlington County,6
+24201,Virginia,Bristol County,2
+22903,Virginia,Charlottesville City County,6
+22030,Virginia,Fairfax City County,2
+22184,Virginia,Fairfax County,2
+20131,Virginia,Loudoun County,10
+24060,Virginia,Montgomery County,63
+23501,Virginia,Norfolk City County,2
+23955,Virginia,Nottoway County,3
+22135,Virginia,Prince William County,2
+23173,Virginia,Richmond City County,7
+24006,Virginia,Roanoke City County,2
+99352,Washington,Benton County,6
+98052,Washington,King County,89
+98110,Washington,Kitsap County,3
+98021,Washington,Snohomish County,2
+99004,Washington,Spokane County,4
+99164,Washington,Whitman County,8
+25704,West Virginia,Cabell County,4
+25443,West Virginia,Jefferson County,2
+25123,West Virginia,Mason County,2
+26504,West Virginia,Monongalia County,4
+26170,West Virginia,Pleasants County,2
+53705,Wisconsin,Dane County,59
+54650,Wisconsin,La Crosse County,2
+53201,Wisconsin,Milwaukee County,6
+54124,Wisconsin,Oconto County,2
+54006,Wisconsin,Polk County,2
+54561,Wisconsin,Vilas County,2
+53114,Wisconsin,Walworth County,6
+82071,Wyoming,Albany County,3
+82512,Wyoming,Fremont County,2
